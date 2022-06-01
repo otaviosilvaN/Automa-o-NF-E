@@ -5,7 +5,7 @@ Código para ser adaptado em sistemas web, com utilização de web-scrapping, fe
 
 Linguagem utilizada: Python
 
-Fazer o download do arquivo Excel NotasEmitir.xlsx para treinamento do código .
+Faça o clone do repositório e teste o código em sua máquina
 
 Em caso de dúvidas. Contacte-me : otavio3397@gmail.com
 
