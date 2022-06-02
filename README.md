@@ -7,7 +7,7 @@ Código para ser adaptado em sistemas web, com utilização de web-scrapping, fe
 
 Linguagem utilizada: Python 3
 
-Para utilização das bibliotecas no Jupyer nootebook, será necessário a instalação via anaconda prompt das seguintes bibliotecas:
+Para utilização das bibliotecas no Jupyter notebook, será necessário a instalação via anaconda prompt das seguintes bibliotecas:
 
 1) Selenium Webdriver. Biblioteca utilizada em conjunto com o google chrome para Scrapping dos dados da pagina web e manipulação do browser, assim como o envio de dados para automação em páginas, semelhante as manipulaçoes feitas com DOM em Javascript
 
@@ -16,7 +16,7 @@ Para utilização das bibliotecas no Jupyer nootebook, será necessário a insta
 
 Documentação - https://selenium-python.readthedocs.io/getting-started.html
 
-2) Pandas - No Jupyer notebook é necesário somente a importação no código, visto que a biblioteca pandas já vem instalada.
+2) Pandas - No Jupyter notebook é necesário somente a importação no código, visto que a biblioteca pandas já vem instalada.
 
 Documentação -https://pandas.pydata.org/docs/
 
