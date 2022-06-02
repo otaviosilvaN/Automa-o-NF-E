@@ -1,6 +1,8 @@
 # Automação NF-e
 Automação via Selenium e Webdriver para uso de emissão de nota fiscal eletrônica em sistemas web.
+
 A automação foi feita e executada usando o Jupyter notebook. Link para download, instalação e documentação : https://jupyter.org/
+
 Código para ser adaptado em sistemas web, com utilização de web-scrapping, feito por Selenium Webdriver
 
 Linguagem utilizada: Python 3
