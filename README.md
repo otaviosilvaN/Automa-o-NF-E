@@ -15,12 +15,15 @@ Para utilização das bibliotecas no Jupyer nootebook, será necessário a insta
 Documentação - https://selenium-python.readthedocs.io/getting-started.html
 
 2) Pandas - No Jupyer notebook é necesário somente a importação no código, visto que a biblioteca pandas já vem instalada.
+
 Documentação -https://pandas.pydata.org/docs/
 
 3) OS - Biblioteca de comandos do sistema operacional . Se utilizada no Jupyer, não necessita de instalação via prompt, somente da importação no código.
+
 Documentação - https://docs.python.org/pt-br/3/library/os.html
 
 4) time - Biblioteca utilziada para automação de tempos de espera entre partes do código, para permitir o carregamento total de paginas antes de execução da próxima sequencia de linhas de código. Se utilizada no Jupyer, não necessita de instalação via prompt, somente da importação no código.
+
 Documentação: https://docs.python.org/3/library/time.html
 
 
